@@ -1,0 +1,8 @@
+apply plugin: 'eclipse'
+
+apply plugin: 'java'
+
+dependencies {
+    implementation fileTree(dir: 'lib', include: '*.jar')
+
+}
