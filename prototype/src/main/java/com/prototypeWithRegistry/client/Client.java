@@ -1,12 +1,11 @@
-package com.prototype.client;
+package com.prototypeWithRegistry.client;
 
-import com.prototype.General;
 import com.prototype.Particleman;
-import com.prototype.PrototypeRegistry;
 import com.prototype.Swordsman;
+import com.prototypeWithRegistry.PrototypeRegistry;
 import javafx.geometry.Point3D;
 
-public class RegistryClient {
+public class Client {
 
     static {
         registerPrototypes();

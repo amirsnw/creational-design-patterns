@@ -4,7 +4,7 @@ package com.simplefactory;
  * Represents a product information post. 
  *
  */
-public class ProductPost extends Post{
+public class ProductPost extends Post {
 
 	private String imageUrl;
 	

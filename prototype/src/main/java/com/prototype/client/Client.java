@@ -5,7 +5,7 @@ import com.prototype.General;
 import com.prototype.Swordsman;
 import javafx.geometry.Point3D;
 
-public class RegularClient {
+public class Client {
 
     public static void main(String[] args) throws CloneNotSupportedException {
 

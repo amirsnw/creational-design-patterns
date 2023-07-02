@@ -1,4 +1,6 @@
-package com.prototype;
+package com.prototypeWithRegistry;
+
+import com.prototype.GameUnit;
 
 import java.util.HashMap;
 import java.util.Map;
